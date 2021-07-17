@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1096582030373",
+    "firebase_url": "https://iot-home-3810d.firebaseio.com",
+    "project_id": "iot-home-3810d",
+    "storage_bucket": "iot-home-3810d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096582030373:android:e47548ebd4989991168bcc",
+        "android_client_info": {
+          "package_name": "com.IOT_AT_HOME"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096582030373-ip9dr1ptos5rgr6qqntgdsehskvunrci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZynyW_ZrHGDA_AYzQ7lU1KutXONMSB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096582030373-ip9dr1ptos5rgr6qqntgdsehskvunrci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096582030373:android:dcebcddb014ca97e168bcc",
+        "android_client_info": {
+          "package_name": "com.example.smart_led"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096582030373-ip9dr1ptos5rgr6qqntgdsehskvunrci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZynyW_ZrHGDA_AYzQ7lU1KutXONMSB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096582030373-ip9dr1ptos5rgr6qqntgdsehskvunrci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096582030373:android:5a7b30338076ce46168bcc",
+        "android_client_info": {
+          "package_name": "com.smarthome.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096582030373-45cqm3ofn8kt6bvq9pacahrauojf3heu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarthome.smarthome",
+            "certificate_hash": "3b7b2fa5bb9cb73912a07f9b83bab0c1bb72af2c"
+          }
+        },
+        {
+          "client_id": "1096582030373-jhbl0cfrh8q4lscbov2930j8t2qv592c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarthome.smarthome",
+            "certificate_hash": "3b3353da4fd780d06e9bd1acbf2d8085d9d8d975"
+          }
+        },
+        {
+          "client_id": "1096582030373-tc3ocqd5kejugri1dmjeo998jbk9o0ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarthome.smarthome",
+            "certificate_hash": "25d8132e83072d6c60ccad432f023d50a7185b11"
+          }
+        },
+        {
+          "client_id": "1096582030373-ip9dr1ptos5rgr6qqntgdsehskvunrci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZynyW_ZrHGDA_AYzQ7lU1KutXONMSB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096582030373-ip9dr1ptos5rgr6qqntgdsehskvunrci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
